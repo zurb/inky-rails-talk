@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is follow-along repository showing how to integrate Foundation 4 Emails 2 and Inky-rb
+into a rails application. The master branch is a bare rails app, but you can check out each
+step by checking out the following branches:
 
-Things you may want to cover:
+0-add-inky
 
-* Ruby version
+1-inky-install
 
-* System dependencies
+2-mailer-install
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+3-add-template
